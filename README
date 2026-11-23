@@ -1,1 +1,1 @@
-当前项目只存放规则模板、需求 REQ.md 和模块 Plan，规则见 docs/spec/README.md
+本仓库维护团队开发分支规范和需求模板。已填写的 REQ 上传到需求管理平台，流程见 [开发规范](docs/spec/README.md)。
